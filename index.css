@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  .container {
+    background-color: #e5e5fd;
+    min-height: 50vh;
+    border: 10px solid #1d1e4c;
+  }
+  #title{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(185, 198, 209);
+    text-align: center;
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: 0;
+}
